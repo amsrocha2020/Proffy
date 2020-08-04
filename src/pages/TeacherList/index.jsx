@@ -9,7 +9,7 @@ function TeacherList() {
   return (
       <div id="page-teacher-list" className="container">
         <PageHeader title="Estes são os proffys disponíveis.">
-          <from id="search-teachers">
+          <form id="search-teachers">
             <div className="input-block">
               <label htmlFor="subject">Matéria</label>
               <input type="text" id="subject"/>
@@ -24,7 +24,7 @@ function TeacherList() {
               <label htmlFor="time">Hora</label>
               <input type="text" id="time"/>
             </div>
-          </from>
+          </form>
         </PageHeader>
 
         <main>
