@@ -1,9 +1,5 @@
 <p align="center"><img width="500px" align="center" src="https://github.com/amsrocha2020/Proffy/blob/master/src/assets/images/landing.svg"></img></p>
-<p align="center">	
-<a href="https://www.linkedin.com/in/antoniorocha/">
-  <img alt="Linkedin António Rocha" src="https://img.shields.io/badge/-brunobach-8257E5?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
+
 
 Projeto de uma plataforma de ensino feito em ReactJS utilizando Typescript.
 
